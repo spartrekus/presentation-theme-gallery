@@ -1,9 +1,9 @@
 # presentation-theme-gallery
 presentation theme gallery with beamer (latex) 
 
-!fig[https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Bergen.jpg]
+!fig(https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Bergen.jpg)
 
-!fig[https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Singapore.jpg]
+!fig(https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Singapore.jpg)
 
 !fig[img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/Ilmenau.jpg)
 !fig[img](https://raw.githubusercontent.com/spartrekus/presentation-theme-gallery/master/gallery-not/pics/EastLansing.jpg)
